@@ -3,10 +3,11 @@
 Machine learning techniques to predict centrality in heavy-ion
 collisions
 
-https://arxiv.org/abs/2103.01736
+ML: https://arxiv.org/abs/2103.01736
 
-1. UrQMD: testf13 Bi 9 GeV MB 100 events
-2. UNIGEN: urqmd2u test.f13.Bi9MB.0 Bi9MB.root 100
+Centrality: https://indico.cern.ch/event/802303/papers/3590219/files/9719-article.pdf
+
+Spherocity: https://arxiv.org/pdf/1404.2372.pdf
 
 # UrQMD 
 
